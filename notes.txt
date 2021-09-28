@@ -1,0 +1,9 @@
+1. Select a word from a list
+2. Display some information to the user (number of turns left.. etc.)
+   - Remaining turns
+   - Choices already made
+   - Word with correct choices revealed
+3. Get input
+4. Change scores etc.
+5. Repeat 2, 3, 4 till turns are over or word is guessed
+
